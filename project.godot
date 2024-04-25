@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="TopDown2D"
+run/main_scene="res://scene/level1.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
-config/icon="res://icon.svg"
 
 [editor]
 
